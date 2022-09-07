@@ -13,3 +13,15 @@ There is a beautiful heritage palace located near the meauseum. This is highly r
 
 
 **[My info](Aboutme.md)**
+
+-----------------------------
+### Info about Cities that should be visited and explored.
+
+This table gives the information about the places that should be visited in the corresponding city and how much time we can spend there to enjoy.
+
+| City Name | Important Location | Time to Spend |
+|-----------|--------------------|---------------|
+| Atlanta   | Centennial Olympic | 4 hrs         |
+| Boston    | Museum of Fine Arts| 2 hrs         |
+| San Franc | Alcatraz Island    |  1 day        |
+| Seattle   | Space Needle       | 7 hrs         |
