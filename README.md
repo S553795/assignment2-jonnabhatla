@@ -9,3 +9,7 @@ address to the meuseum
 chicago airport is the closest airport to the meuseum
 walk to busstop, wait for bus, get in the bus and there is your way to airport.
 There is a beautiful heritage palace located near the meauseum. This is highly recommondable.
+
+
+
+**[My info](Aboutme.md)**
